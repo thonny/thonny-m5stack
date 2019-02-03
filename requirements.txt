@@ -1,0 +1,2 @@
+thonny>=3.0.0
+esptool>=2.0
