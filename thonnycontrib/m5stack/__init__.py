@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import ttk
 from urllib.request import urlopen
 from thonny.ui_utils import SubprocessDialog
-from thonny.running import get_frontend_python
+from thonny.running import get_interpreter_for_subprocess
 from time import sleep
 import json
 import threading
